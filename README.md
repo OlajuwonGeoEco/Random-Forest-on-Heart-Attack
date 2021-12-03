@@ -1,6 +1,6 @@
 # Random-Forest-on-Heart-Attack
 
-I was seraching online for an interest file to do some classification. And I found this heart data on Kaggle. https://www.kaggle.com/pritsheta/heart-attack
+I was seraching online for an interesting file to do some classification. And I found this heart data on Kaggle. https://www.kaggle.com/pritsheta/heart-attack
 
 I cleaned the data, and did some initial look up to make sure everything checks out. 
 
